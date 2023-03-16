@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Cinzel', serif;
+    background-image: url(https://i.ibb.co/VHCMxHm/image-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 64px;
+    line-height: 86px;
+    color: #151718;
+}
+
+h1 span {
+    color: #DB2777;
+}
+
+p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+    opacity: 0.9;
+    margin-bottom: 72px;
+    font-family: 'Inter', sans-serif;
+}
+
+
+a {
+    font-size: 20px;
+    line-height: 24px;
+    border-radius: 80px;
+    padding: 16px 32px;
+    text-decoration: none;
+}
+
+.btn_primary {
+    color: #151718;
+    text-decoration: none;
+    
+}
+
+.btn_primary:hover,
+.btn_secondary {
+ 
+ color: #FFFFFF;
+ background-color: #DB2777;
+ 
+
+}
+
